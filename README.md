@@ -75,7 +75,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/imaginify.git
+https://github.com/zhonglin0730/imaginify.git
 cd imaginify
 ```
 
